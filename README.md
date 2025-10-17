@@ -2,7 +2,7 @@
 
 ## Description
 
-Create a todo list app with add and delete features
+Add filter buttons to show All, Active, and Completed todos. Add a Clear Completed button.
 
 ## Features
 
